@@ -1,0 +1,3 @@
+What i learned: From this industry talk, I learned that understanding project management and system development is essential in real working environments. The speaker made me realize that theoretical knowledge alone is not enough if it cannot be applied in actual projects.
+
+What i gained: I also gained a clearer understanding of the importance of planning and the System Development Life Cycle (SDLC). The examples shared helped me see how these concepts are used in real industry practices. Overall, this talk helped me better connect university learning with real-world applications and prepared me for future work in the industry.
